@@ -1,1 +1,1 @@
-![Đìzai Studio](./Cover-Black.png "Đìzai Studio")
+[![Đìzai Studio](./Cover-Black.png)](https://dizai.studio/)
