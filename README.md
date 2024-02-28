@@ -1,1 +1,1 @@
-[![Đìzai Studio](./Cover-Black.png)](https://dizai.studio/)
+[![Zen® Design System](./Zen-Cover-Black.png)](http://zen.dizai.studio/)
