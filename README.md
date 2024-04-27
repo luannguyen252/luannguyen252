@@ -1,4 +1,4 @@
-![Luan Nguyen Design · Master the Art of Full-Stack Design](./public/covers/luan-nguyen-design-cover.png "Luan Nguyen Design · Master the Art of Full-Stack Design")
+![Luan Nguyen Design · Master the Art of Full-Stack Design](./luan-nguyen-design-cover.png "Luan Nguyen Design · Master the Art of Full-Stack Design")
 
 # Luan Nguyen Design
 
