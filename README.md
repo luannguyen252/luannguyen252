@@ -10,7 +10,7 @@ Find out more at: [luannguyen.design](https://luannguyen.design/)
 
 - [Visit official website](https://luannguyen.design/)
 - [YouTube @luannguyen-design](https://www.youtube.com/@luannguyen-design)
-- [LinkedIn @jay-nguyen-dizai-studio](https://www.linkedin.com/in/jay-nguyen-dizai-studio/)
+- [LinkedIn @luannguyen252](https://www.linkedin.com/in/luannguyen252/)
 - [Facebook @luannguyen252](https://facebook.com/luannguyen252)
 - [Twitter @luannguyen252](https://twitter.com/luannguyen252)
 - [GitHub @luannguyen252](https://github.com/luannguyen252)
