@@ -8,7 +8,8 @@ Welcome to my GitHub! I'm Luan, with over a decade of experience in digital prod
 
 Find out more at: [luannguyen.design](https://luannguyen.design/)
 
-- [Visit official website](https://luannguyen.design/)
+## Connect with me
+
 - [YouTube @luannguyen-design](https://www.youtube.com/@luannguyen-design)
 - [LinkedIn @luannguyen252](https://www.linkedin.com/in/luannguyen252/)
 - [Facebook @luannguyen252](https://facebook.com/luannguyen252)
