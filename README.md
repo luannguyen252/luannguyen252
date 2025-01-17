@@ -6,7 +6,7 @@
 
 Visit website: [vgds.design](https://vgds.design/)
 
-## Key Features
+## Key features
 
 - Unified design system for Vietnamese government services.
 - Focus on accessibility, efficiency, and user-centric solutions.
