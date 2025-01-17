@@ -23,4 +23,15 @@ Explore the website: [vgds.design](https://vgds.design/)
 
 ---
 
+## Stay connected
+
+Follow us on social media to stay updated on our latest initiatives and projects:
+
+- **Facebook:** [facebook.com/vgds.design](https://www.facebook.com/vgds.design)
+- **GitHub:** [github.com/vgds-design](https://github.com/vgds-design)
+- **Behance:** [behance.net/vgds_design](https://www.behance.net/vgds_design)
+- **YouTube:** [youtube.com/@vgds-design](https://www.youtube.com/@vgds-design)
+
+---
+
 VGDS embodies a shared commitment to transforming Vietnam's digital public services, fostering collaboration, and driving innovation. Join the movement to redefine digital governance for a more efficient, transparent, and user-focused future.
