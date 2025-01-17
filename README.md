@@ -1,16 +1,13 @@
-## Hi there 👋
+![VGDS Design · Vietnam Government Design System](/vgds-cover.png "VGDS Design · Vietnam Government Design System")
 
-<!--
-**luannguyen252/luannguyen252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# VGDS Design · Vietnam Government Design System
 
-Here are some ideas to get you started:
+> Vietnam Government Design System (VGDS) is an unofficial design system created by a community of Vietnamese designers and developers. This non-profit initiative aims to propose a unified design system to enhance the quality and efficiency of digital services for the Vietnamese government, contributing to a more modern and user-friendly digital administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit website: [vgds.design](https://vgds.design/)
+
+## Key Features
+
+- Unified design system for Vietnamese government services.
+- Focus on accessibility, efficiency, and user-centric solutions.
+- Open collaboration by a dedicated community.
